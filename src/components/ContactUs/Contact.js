@@ -5,7 +5,7 @@ function Contact() {
         <div>
             <section id="contact" className="contact">
 
-<div className="container" data-aos="fade-up">
+<div className="container mt-5" data-aos="fade-up">
 
   <header className="section-header">
     <p>Contact Us</p>

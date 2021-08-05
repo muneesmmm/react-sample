@@ -3,17 +3,17 @@
   "name": "Soft Tech Solution",
   "icons": [
     {
-      "src": "../src/STS.png",
+      "src": "https://github.com/muneesmmm/react-sample/blob/master/src/STS.png?raw=true",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "../src/STS.png",
+      "src": "https://github.com/muneesmmm/react-sample/blob/master/src/STS.png?raw=true",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "../src/STS.png",
+      "src": "https://github.com/muneesmmm/react-sample/blob/master/src/STS.png?raw=true",
       "type": "image/png",
       "sizes": "512x512"
     }

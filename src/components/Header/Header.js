@@ -14,7 +14,7 @@ function Header() {
     return (
 
         <nav className="navbar navbar-dark navbar-expand-lg fixed-top bg-black clean-navbar p-2" >
-            <div className="container"><Link className="navbar-brand logo" to={'/'}><span>Lorem</span></Link>
+            <div className="container-fluid"><Link className="navbar-brand logo" to={'/'}><span>Lorem</span></Link>
             <ul className="nav">
                 <li className="nav-item"> <a href="https://twitter.com" className="twitter"><i className="bi bi-twitter"></i></a></li>
                 <li className="nav-item"><a href="https://facebook.com" className="facebook"><i className="bi bi-facebook"></i></a></li>

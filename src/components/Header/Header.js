@@ -25,13 +25,13 @@ function Header() {
             <button data-toggle="collapse" className="navbar-toggler" data-target="#navcol-1"><span className="sr-only">Toggle navigation</span><span className="navbar-toggler-icon"></span></button>
                 <div className="collapse navbar-collapse" id="navcol-1">
                     <ul className="nav navbar-nav ml-auto mb-2">
-                        <li className="nav-item"><Link className="nav-link active" to={'/'}>Company</Link></li>
+                        <li className="nav-item"><Link className="nav-link active" to={'/'}>&nbsp;&nbsp;Company&nbsp;&nbsp;</Link></li>
                         <li className="nav-item">
-                            <Link className="nav-link" to={'/services'}>Services</Link>
+                            <Link className="nav-link" to={'/services'}>&nbsp;&nbsp;Services&nbsp;&nbsp;</Link>
                         </li>
-                        <li className="nav-item"><Link  className="nav-link" to={'/portfolio'}>Portfolio</Link></li>
-                        <li className="nav-item"><Link  className="nav-link" to={'/aboutus'}>About Us</Link> </li>
-                        <li className="nav-item"><Link  className="nav-link" to={'/contact'}>Contact Us</Link></li>
+                        <li className="nav-item"><Link  className="nav-link" to={'/portfolio'}> &nbsp;&nbsp;Portfolio&nbsp;&nbsp;</Link></li>
+                        <li className="nav-item"><Link  className="nav-link" to={'/aboutus'}>&nbsp;&nbsp;About Us&nbsp;&nbsp;</Link> </li>
+                        <li className="nav-item"><Link  className="nav-link" to={'/contact'}>&nbsp;&nbsp;Contact Us&nbsp;&nbsp;</Link></li>
                     </ul>
                 </div>
             </div>

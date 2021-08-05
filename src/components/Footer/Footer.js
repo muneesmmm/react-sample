@@ -26,8 +26,9 @@ function Footer() {
               <ul>
                 <li><i class="bi bi-chevron-right"></i> <Link to={'/'}>Home</Link></li>
                 <li><i class="bi bi-chevron-right"></i> <Link to={'/aboutus'}>About us</Link></li>
-                <li><i class="bi bi-chevron-right"></i> <Link to={'/service'}>Services</Link></li>
+                <li><i class="bi bi-chevron-right"></i> <Link to={'/services'}>Services</Link></li>
                 <li><i class="bi bi-chevron-right"></i> <Link to={'/portfolio'}>Portfolio</Link></li>
+                <li><i class="bi bi-chevron-right"></i> <Link to={'/contact'}>Contact Us</Link></li>
               </ul>
             </div>
   

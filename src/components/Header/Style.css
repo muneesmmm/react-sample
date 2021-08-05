@@ -8,11 +8,12 @@
 }
 
 .logo span {
-  font-size: 30px;
+  font-size: 35px;
   font-weight: 900;
   letter-spacing: 1px;
   color: #012970;
   font-family: "Nunito", sans-serif;
+  margin-left: 20px;
   margin-top: 3px;
 }
 .navbar {
@@ -26,7 +27,7 @@
 
  
 }
-.navbar li:hover {
+.navbar  li:hover {
   color:rgb(255, 255, 255);
   background-color: #012970;
   transform: scale(1.01);
@@ -66,4 +67,3 @@
 .navbar-mobile L:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #4154f1;
 }
-

@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react'
 import AOS from 'aos';
+import './Style.css'
 function Landingpage() {
         useEffect(() => {
           AOS.init();
@@ -9,8 +10,8 @@ function Landingpage() {
         <div className="container">
             
     
-                <div className="section-header">
-                        <p>Who We Are ....</p>
+                <div className="section-header" style={{fontFamily:"monospace"}}>
+                <p class="loading">Who We Are</p>
                     </div>
             
             <div className="row">

@@ -9,8 +9,8 @@ function Footer() {
           <div class="row gy-4">
             <div class="col-lg-5 col-md-12 footer-info">
               <a href="index.html" class="logo d-flex align-items-center">
-                <img src="assets/img/logo.png" alt="" />
-                <span>Lorem</span>
+                <img src={'https://github.com/muneesmmm/react-sample/blob/master/src/STS.png?raw=true'} alt="" />
+                <span>STS</span>
               </a>
               <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
               <div class="social-links mt-3">
@@ -48,7 +48,7 @@ function Footer() {
                 Abc abcd, AB 535022<br/>
                 Asdf jklm <br/><br/>
                 <strong>Phone:</strong><a href="tel:// +91 9696964545">+91 9696964545</a><br/>
-                <strong>Email:</strong><a href="mailto:sanasilks@gmail.com"> info@lorem.com</a><br/>
+                <strong>Email:</strong><a href="mailto:sts@gmail.com"> info@sts.com</a><br/>
               </p>
   
             </div>
@@ -59,10 +59,10 @@ function Footer() {
   
       <div class="container">
         <div class="copyright">
-          &copy; Copyright <strong><span>Lorem</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>STS</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-          Designed by <Link to={'/'}>Lorem</Link>
+          Designed by <Link to={'/'}>STS</Link>
         </div>
       </div>
     </footer>

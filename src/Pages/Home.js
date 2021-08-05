@@ -9,7 +9,7 @@ import Arrow from './Arrow';
 function Home() {
     const data = 'Welcome To STS '
     const item = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
-    const link='/aboutus'
+    const link='/services'
     return (
         <div>
             <Header />

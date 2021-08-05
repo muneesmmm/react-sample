@@ -4,6 +4,7 @@ import './Style.css'
 import 'remixicon/fonts/remixicon.css'
 import './glightbox.min.css'
 import AOS from 'aos';
+import logo from '../STS.png'
 import "bootstrap-icons/font/bootstrap-icons.css";
 
 function Header() {
@@ -14,7 +15,10 @@ function Header() {
     return (
 
         <nav className="navbar navbar-dark navbar-expand-lg fixed-top bg-black clean-navbar p-2" >
-            <div className="container-fluid"><Link className="navbar-brand logo" to={'/'}><span>STS</span></Link>
+            
+            <div className="container-fluid"><Link className="logo d-flex align-items-center">
+        <img src={logo} alt=""/>
+        <span>STS</span></Link>
                 <div class="social-links mt-3">
                     <a href="https://twitter.com" className="twitter"><i class="bi bi-twitter"></i></a>
                     <a href="https://facebook.com" className="facebook"><i class="bi bi-facebook"></i></a>

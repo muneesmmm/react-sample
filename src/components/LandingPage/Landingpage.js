@@ -37,7 +37,7 @@ function Landingpage() {
                     <div className="d-flex justify-content-center">
                     <img className="mt-3 mb-5" src={'https://www.pngitem.com/pimgs/m/112-1127600_custom-software-development-company-mobile-web-app-development.png'} alt="solutin" style={{ height: "150px" }}></img>
                     </div>
-                    <h3>Why Lorem ipsum</h3>
+                    <h3>Why STS </h3>
                     <p style={{ textAlign: "justify" }}>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                         et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut

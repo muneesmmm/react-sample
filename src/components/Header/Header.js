@@ -16,7 +16,7 @@ function Header() {
 
         <nav className="navbar navbar-dark navbar-expand-lg fixed-top bg-black clean-navbar p-2" >
             
-            <div className="container-fluid"><Link className="logo d-flex align-items-center">
+            <div className="container-fluid"><Link to={'/'} className="logo d-flex align-items-center">
         <img src={logo} alt=""/>
         <span>STS</span></Link>
                 <div class="social-links mt-3">

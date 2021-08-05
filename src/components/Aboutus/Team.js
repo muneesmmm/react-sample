@@ -4,28 +4,28 @@ import image from '../Portfolios/user.png'
 import './Style.css'
 function Team() {
     return (
-            <section id="team" class="team">
+            <section id="team" className="team">
 
-                <div class="container">
+                <div className="container">
 
-                    <header class="section-header">
+                    <header className="section-header">
                         <p>Our hard working team</p>
                     </header>
 
-                    <div class="row gy-4">
+                    <div className="row gy-4">
 
-                        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-out-right" data-aos-duration="1000">
-                            <div class="member">
-                                <div class="member-img">
-                                    <img src={image} class="img-fluid" alt="" />
-                                    <div class="social">
-                                        <Link to="#"><i class="bi bi-twitter"></i></Link>
-                                        <Link to="#"><i class="bi bi-facebook"></i></Link>
-                                        <Link to="#"><i class="bi bi-instagram"></i></Link>
-                                        <Link to="#"><i class="bi bi-linkedin"></i></Link>
+                        <div className="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-out-right" data-aos-duration="1000">
+                            <div className="member">
+                                <div className="member-img">
+                                    <img src={image} className="img-fluid" alt="" />
+                                    <div className="social">
+                                        <Link to="#"><i className="bi bi-twitter"></i></Link>
+                                        <Link to="#"><i className="bi bi-facebook"></i></Link>
+                                        <Link to="#"><i className="bi bi-instagram"></i></Link>
+                                        <Link to="#"><i className="bi bi-linkedin"></i></Link>
                                     </div>
                                 </div>
-                                <div class="member-info">
+                                <div className="member-info">
                                     <h4>Walter White</h4>
                                     <span>Chief Executive Officer</span>
                                     <p>Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum exercitationem iure minima enim corporis et voluptate.</p>
@@ -33,18 +33,18 @@ function Team() {
                             </div>
                         </div>
 
-                        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-out-right" data-aos-duration="2000">
-                            <div class="member">
-                                <div class="member-img">
-                                    <img src={image} class="img-fluid" alt="" />
-                                    <div class="social">
-                                        <Link to="#"><i class="bi bi-twitter"></i></Link>
-                                        <Link to="#"><i class="bi bi-facebook"></i></Link>
-                                        <Link to="#"><i class="bi bi-instagram"></i></Link>
-                                        <Link to="#"><i class="bi bi-linkedin"></i></Link>
+                        <div className="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-out-right" data-aos-duration="2000">
+                            <div className="member">
+                                <div className="member-img">
+                                    <img src={image} className="img-fluid" alt="" />
+                                    <div className="social">
+                                        <Link to="#"><i className="bi bi-twitter"></i></Link>
+                                        <Link to="#"><i className="bi bi-facebook"></i></Link>
+                                        <Link to="#"><i className="bi bi-instagram"></i></Link>
+                                        <Link to="#"><i className="bi bi-linkedin"></i></Link>
                                     </div>
                                 </div>
-                                <div class="member-info">
+                                <div className="member-info">
                                     <h4>Sarah Jhonson</h4>
                                     <span>Product Manager</span>
                                     <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
@@ -52,18 +52,18 @@ function Team() {
                             </div>
                         </div>
 
-                        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-out-right" data-aos-duration="3000">
-                            <div class="member">
-                                <div class="member-img">
-                                    <img src={image} class="img-fluid" alt="" />
-                                    <div class="social">
-                                        <Link to="#"><i class="bi bi-twitter"></i></Link>
-                                        <Link to="#"><i class="bi bi-facebook"></i></Link>
-                                        <Link to="#"><i class="bi bi-instagram"></i></Link>
-                                        <Link to="#"><i class="bi bi-linkedin"></i></Link>
+                        <div className="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-out-right" data-aos-duration="3000">
+                            <div className="member">
+                                <div className="member-img">
+                                    <img src={image} className="img-fluid" alt="" />
+                                    <div className="social">
+                                        <Link to="#"><i className="bi bi-twitter"></i></Link>
+                                        <Link to="#"><i className="bi bi-facebook"></i></Link>
+                                        <Link to="#"><i className="bi bi-instagram"></i></Link>
+                                        <Link to="#"><i className="bi bi-linkedin"></i></Link>
                                     </div>
                                 </div>
-                                <div class="member-info">
+                                <div className="member-info">
                                     <h4>William Anderson</h4>
                                     <span>CTO</span>
                                     <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut architecto porro aspernatur molestiae modi.</p>
@@ -71,18 +71,18 @@ function Team() {
                             </div>
                         </div>
 
-                        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-out-right" data-aos-duration="2000">
-                            <div class="member">
-                                <div class="member-img">
-                                    <img src={image} class="img-fluid" alt="" />
-                                    <div class="social">
-                                        <Link to="#"><i class="bi bi-twitter"></i></Link>
-                                        <Link to="#"><i class="bi bi-facebook"></i></Link>
-                                        <Link to="#"><i class="bi bi-instagram"></i></Link>
-                                        <Link to="#"><i class="bi bi-linkedin"></i></Link>
+                        <div className="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-out-right" data-aos-duration="2000">
+                            <div className="member">
+                                <div className="member-img">
+                                    <img src={image} className="img-fluid" alt="" />
+                                    <div className="social">
+                                        <Link to="#"><i className="bi bi-twitter"></i></Link>
+                                        <Link to="#"><i className="bi bi-facebook"></i></Link>
+                                        <Link to="#"><i className="bi bi-instagram"></i></Link>
+                                        <Link to="#"><i className="bi bi-linkedin"></i></Link>
                                     </div>
                                 </div>
-                                <div class="member-info">
+                                <div className="member-info">
                                     <h4>Amanda Jepson</h4>
                                     <span>Accountant</span>
                                     <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid doloremque ut possimus ipsum officia.</p>

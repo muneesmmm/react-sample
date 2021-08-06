@@ -9,22 +9,27 @@
     text-align: center;
     
     
+    
 }
 
 .btn{
     padding: .1rem;
+    border-radius: 50px;
+    font-weight: 500;
     width: 78px;
     height: 30px;
-    background-color: #121627;
-    border: none;
+    background-color: #ffffff;
+    border: 3px;
+    border-color: #070064;
     /* font-family: inherit; */
     font-size: 12px;
-    color: white;
+    color: rgb(16, 0, 160);
     transition: all 0.4s cubic-bezier(1,-0.16,.6,1.35);
 }
 
 .btn:not(:last-child){
-    margin-right: 1rem;
+    margin-right: 0.37rem;
+    margin-left: 0.37rem;
 }
 
 .btn:hover{
@@ -34,6 +39,7 @@
 }
 
 .btn:active, .btn:focus{
+  color: rgb(255, 255, 255);
     outline: none;
     border: none;
     background-color: #070064;
@@ -41,7 +47,7 @@
 }
 .box{
  
-    background:linear-gradient(rgba(0, 0, 0, 0.5),transparent);
+    background:linear-gradient(rgba(5, 58, 233, 0.5),transparent);
   }
   .testimonials .testimonial-item {
     box-sizing: content-box;

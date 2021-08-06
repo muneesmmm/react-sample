@@ -11,11 +11,11 @@ import Arrow from './Arrow'
 function About() {
     const data = 'Welcome To STS '
     const item = 'STS is a global software solutions provider in software development, mobile application development, web designing, graphic designing and digital marketing.'
-    const link='/services'
+    const link='/services#top'
 
     return (
         <div>
-            <Header/>
+            <Header  id="top"/>
             <Banner data={data} item={item} img={Bnnr}/>
             <Aboutus/>
             <Team/>

@@ -11,10 +11,10 @@ import Arrow from './Arrow'
 function Portfolio() {
     const data = 'Let’s Build Something Great'
     const item = 'Our efforts - designed with skill & quality. Offering you the immense scope of solutions implemented by us with the high-quality standard.'
-    const link='/contact'
+    const link='/contact#top'
     return (
         <div class="">
-            <Header />
+            <Header id="top" />
             <Banner  data={data} item={item} img={Bnnr}></Banner>          
             <Portfolios />
             <Testimon/>

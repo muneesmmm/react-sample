@@ -6,7 +6,7 @@ import Header from '../components/Header/Header'
 function ContactUs() {
     return (
         <div>
-            <Header/>
+            <Header id="top"/>
             <Contact/>
             <Footer/>
         </div>

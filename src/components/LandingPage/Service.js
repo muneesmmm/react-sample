@@ -17,8 +17,8 @@ function Service() {
                 <div className="row gy-4 d-flex justify-content-center">
                     <div className="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-out-right" data-aos-duration="1000">
                         <div className="member">
-                            <div className="member-img">
-                                <img src={'https://www.websoullabs.com/assets/homemob.png'} className="img-fluid mt-3" alt="" style={{ height: "100px" }} />
+                            <div className="member-img1 p-3">
+                                <img data-aos="zoom-out-left" data-aos-duration="3000" src={'https://www.websoullabs.com/assets/homemob.png'} className="img-fluid" alt="" style={{ height: "100px" }} />
 
                             </div>
                             <div className="member-info">
@@ -31,8 +31,8 @@ function Service() {
 
                     <div className="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-out-right" data-aos-duration="2000">
                         <div className="member">
-                            <div className="member-img">
-                                <img src={'https://www.websoullabs.com/assets/images.png'} className="img-fluid mt-3" alt="" style={{ height: "100px" }} />
+                            <div className="member-img1">
+                                <img data-aos="zoom-out-left" data-aos-duration="3000" src={'https://www.websoullabs.com/assets/images.png'} className="img-fluid" alt="" style={{ height: "100px" }} />
 
                             </div>
                             <div className="member-info">
@@ -45,8 +45,8 @@ function Service() {
 
                     <div className="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-out-right" data-aos-duration="3000">
                         <div className="member">
-                            <div className="member-img">
-                                <img src={'https://www.websoullabs.com/assets/imagecart.png'} className="img-fluid mt-3" alt="" style={{ height: "100px" }} />
+                            <div className="member-img1">
+                                <img data-aos="zoom-out-left" data-aos-duration="3000" src={'https://www.websoullabs.com/assets/imagecart.png'} className="img-fluid" alt="" style={{ height: "100px" }} />
 
                             </div>
                             <div className="member-info">

@@ -31,7 +31,7 @@ function Service() {
 
                     <div className="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-out-right" data-aos-duration="2000">
                         <div className="member">
-                            <div className="member-img1">
+                            <div className="member-img1 p-3">
                                 <img data-aos="zoom-out-left" data-aos-duration="3000" src={'https://www.websoullabs.com/assets/images.png'} className="img-fluid" alt="" style={{ height: "100px" }} />
 
                             </div>
@@ -45,7 +45,7 @@ function Service() {
 
                     <div className="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-out-right" data-aos-duration="3000">
                         <div className="member">
-                            <div className="member-img1">
+                            <div className="member-img1 p-3">
                                 <img data-aos="zoom-out-left" data-aos-duration="3000" src={'https://www.websoullabs.com/assets/imagecart.png'} className="img-fluid" alt="" style={{ height: "100px" }} />
 
                             </div>

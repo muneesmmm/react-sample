@@ -17,18 +17,12 @@ function Landingpage() {
             <div className="row">
                 <div className="col p-4" data-aos="fade-up">
                     <p style={{ textAlign: "justify", fontSize: "18px", color: 'GrayText' }}>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                        ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                        ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                    </p>
-                    <p style={{ textAlign: "justify", fontSize: "18px", color: 'GrayText' }}>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                        ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                        ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    We work with you to design your future. To make it better. To let you wield the power to tame 
+                    technology disruptions. Our application development service gives your applications the power 
+                    of new technologies to make it future proof. Our technical expertise, domain insights and 
+                    design-centric approach help us to create applications that enhance your business value. 
+                    Our applications set the quality standard a notch higher with proven development methodologies 
+                    under low-cost overheads.
                     </p>
                 </div>
             </div>
@@ -39,11 +33,9 @@ function Landingpage() {
                     </div>
                     <h3>Why STS </h3>
                     <p style={{ textAlign: "justify" }}>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum..</p>
+                    We are a team of prominent website design company. We bring in the right mix of technology and 
+                    industry expertise to achieve your business needs to support your business to improve performance 
+                    and productivity by solving problems.</p>
                 </div>
                 <div className="col-md-4 p-3  " data-aos="fade-down" data-aos-duration="2000">
                 <div className="d-flex justify-content-center">
@@ -52,11 +44,9 @@ function Landingpage() {
                     </div>
                     <h3>Our Work Style</h3>
                     <p style={{ textAlign: "justify" }}>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum..</p>
+                    We help you innovate quickly with our agile methodologies and procedures more on finding the best way 
+                    to solve a problem rather than applying the same procedural approach to every situation. Trust forms 
+                    the basis of any relationship.</p>
                 </div>
                 <div className="col-md-4 p-3  bg-light" data-aos="fade-up" data-aos-duration="3000">
                 <div className="d-flex justify-content-center">
@@ -64,11 +54,9 @@ function Landingpage() {
                     </div>
                     <h3>What we offer</h3>
                     <p style={{ textAlign: "justify" }}>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                        et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum..</p>
+                    We are the group of employees for your business through cutting-edge applications. Our team can 
+                    easily slip into disorder or simply resentment for you as you break promises, forget what 
+                    matters to.</p>
                 </div>
             </div>
         </div>

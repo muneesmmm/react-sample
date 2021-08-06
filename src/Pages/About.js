@@ -10,7 +10,7 @@ import Arrow from './Arrow'
 
 function About() {
     const data = 'Welcome To STS '
-    const item = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+    const item = 'STS is a global software solutions provider in software development, mobile application development, web designing, graphic designing and digital marketing.'
     const link='/services'
 
     return (

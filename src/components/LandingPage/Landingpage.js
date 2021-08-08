@@ -10,7 +10,7 @@ function Landingpage() {
         <div className="container">
             
     
-                <div className="section-header" style={{fontFamily:"monospace"}}>
+                <div className="section-header">
                 <p class="loading">Who We Are</p>
                     </div>
             

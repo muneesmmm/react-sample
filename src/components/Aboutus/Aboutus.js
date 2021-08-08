@@ -5,7 +5,7 @@ function Aboutus() {
         <div className="container">
             <div className="row pt-5">
                 
-                <div className="section-header" style={{ fontFamily: 'cursive' }}>
+                <div className="section-header">
                         <p>Who We Are</p>
                     </div>
             </div>

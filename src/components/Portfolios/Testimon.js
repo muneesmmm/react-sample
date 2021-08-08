@@ -5,8 +5,8 @@ function testimon() {
         <div>
             <section id="testimonials" className="testimonials">
                 <div className="container ">
-                    <div className="col d-flex justify-content-center mt-5" style={{ fontFamily: 'cursive' }}>
-                        <h1 style={{ textAlign: "center", fontWeight: "900" }}>What  they  are  saying  about  us</h1>
+                    <div className="col d-flex justify-content-center mt-5 section-header">
+                        <p>What  they  are  saying  about  us...</p>
                     </div>
                     <div className="testimonials-slider swiper-container " >
                         <div className="row swiper-wrapper justify-content-center ">

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { HashLink as Link } from 'react-router-hash-link';
 import './Style.css'
 function Footer() {
     return (
@@ -12,7 +12,7 @@ function Footer() {
                 <img src={'https://github.com/muneesmmm/react-sample/blob/master/src/STS.png?raw=true'} alt="" />
                 <span>STS</span>
               </a>
-              <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+              <p> Global software solutions provider in software development, mobile application development, web designing, graphic designing and digital marketing.</p>
               <div class="social-links mt-3">
                 <a href="https://twitter.com" class="twitter"><i class="bi bi-twitter"></i></a>
                 <a href="https://facebook.com" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -25,19 +25,19 @@ function Footer() {
               <h4>Useful Links</h4>
               <ul>
                 <li><i class="bi bi-chevron-right"></i> <Link to={'/'}>Home</Link></li>
-                <li><i class="bi bi-chevron-right"></i> <Link to={'/aboutus'}>About us</Link></li>
-                <li><i class="bi bi-chevron-right"></i> <Link to={'/services'}>Services</Link></li>
-                <li><i class="bi bi-chevron-right"></i> <Link to={'/portfolio'}>Portfolio</Link></li>
-                <li><i class="bi bi-chevron-right"></i> <Link to={'/contact'}>Contact Us</Link></li>
+                <li><i class="bi bi-chevron-right"></i> <Link to={'/aboutus#top'}>About us</Link></li>
+                <li><i class="bi bi-chevron-right"></i> <Link to={'/services#top'}>Services</Link></li>
+                <li><i class="bi bi-chevron-right"></i> <Link to={'/portfolio#top'}>Portfolio</Link></li>
+                <li><i class="bi bi-chevron-right"></i> <Link to={'/contact#top'}>Contact Us</Link></li>
               </ul>
             </div>
   
             <div class="col-lg-2 col-6 footer-links">
               <h4>Our Services</h4>
               <ul>
-                <li><i class="bi bi-chevron-right"></i>Web Design</li>
-                <li><i class="bi bi-chevron-right"></i>Web Development</li>
-                <li><i class="bi bi-chevron-right"></i>Product Management</li>
+                <li><i class="bi bi-chevron-right"></i><Link to={'/services#web'}>Web Design</Link></li>
+                <li><i class="bi bi-chevron-right"></i><Link to={'/services#mob'}>mobile App Development</Link></li>
+                <li><i class="bi bi-chevron-right"></i><Link to={'/services#ecom'}>E-com web development</Link></li>
               </ul>
             </div>
   

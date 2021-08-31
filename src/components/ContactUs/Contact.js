@@ -27,14 +27,14 @@ function Contact() {
           <div className="info-box">
             <i className="bi bi-telephone"></i>
             <h3>Call Us</h3>
-            <p>+1 5589 55488 55<br/>+1 6678 254445 41</p>
+            <p>+91 9846 637 792<br/>+91 9645 732 562</p>
           </div>
         </div>
         <div className="col-md-6">
           <div className="info-box">
             <i className="bi bi-envelope"></i>
             <h3>Email Us</h3>
-            <p>info@example.com<br/>contact@example.com</p>
+            <p>info@sts.com<br/>sts@gmail.com</p>
           </div>
         </div>
         <div className="col-md-6">
@@ -57,7 +57,7 @@ function Contact() {
           </div>
 
           <div className="col-md-6 ">
-            <input type="email" className="form-control" name="email" placeholder="Your Email" required />
+            <input type="email" className="form-control"0 name="email" placeholder="Your Email" required />
           </div>
 
           <div className="col-md-12">

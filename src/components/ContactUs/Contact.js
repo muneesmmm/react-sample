@@ -57,7 +57,7 @@ function Contact() {
           </div>
 
           <div className="col-md-6 ">
-            <input type="email" className="form-control"0 name="email" placeholder="Your Email" required />
+            <input type="email" className="form-control" name="email" placeholder="Your Email" required />
           </div>
 
           <div className="col-md-12">
